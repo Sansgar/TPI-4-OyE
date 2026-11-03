@@ -20,11 +20,11 @@ Este repositorio contiene la documentacion del proyecto, un sistema para ayudar 
 
 **Historias**
 
-- Como parte del equipo editorial necesito un sistema para enviar invitacion al testo.
+- Como parte del equipo editorial quiero un sistema para enviar invitacion al testo.
 
-- Como tester necesito un sistema para enviar feedback al diseñador
+- Como tester quiero un sistema para enviar feedback al diseñador
 
-- Como diseñador necesito un sistema para realizar cambios a las reglas de acuerdo al feedback de los testers
+- Como diseñador quiero un sistema para realizar cambios a las reglas de acuerdo al feedback de los testers
 
 Se adjunta link al proyecto:
 
